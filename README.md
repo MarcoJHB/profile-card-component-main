@@ -39,8 +39,8 @@ Your challenge is to build out this profile card component and get it looking as
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Front End Mentor Link](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ/hub/profile-card-component-oVBX12yO7)
+- Live Site URL: [Netlify Link](https://frontend-mentor-profile-card-marco-agas.netlify.app/)
 
 ## My process
 
